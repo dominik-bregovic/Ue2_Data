@@ -1,0 +1,10 @@
+stack
+print
+push(a)
+print
+print
+push(x)
+push(a)
+print
+pop
+print
